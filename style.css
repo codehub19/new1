@@ -63,9 +63,7 @@ button{
 .navbar{
    
     width: 45%;
-    display: grid;
-    grid-template-columns: repeat(5,1fr);
-    list-style: none;
+    display: flex;
     color: #fff;
     right: 0;
     margin-right: 5%;
